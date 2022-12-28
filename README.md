@@ -2,7 +2,7 @@
 
 ## Tech
 
-Taonga uses a open source framework to Build:
+Quiz uses a open source framework to Build:
 
 - [ReactJS](https://reactjs.org/) - Framework enhanced for web apps!
 - [Visual Studio](https://code.visualstudio.com/download) - awesome web-based Code editor
