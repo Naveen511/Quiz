@@ -4,7 +4,7 @@
 
 Quiz uses a open source framework to Build:
 
-- [ReactJS](https://reactjs.org/) - Framework enhanced for web apps!
+- [ReactJS](https://reactjs.org/) - Framework enhanced for web apps
 - [Visual Studio](https://code.visualstudio.com/download) - awesome web-based Code editor
 - [Material UI](https://material-ui.com/) - great UI boilerplate for modern web apps
 
