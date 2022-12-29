@@ -2,6 +2,7 @@
   "name": "quizprogram",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://naveen511.github.io/Quiz/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
@@ -18,7 +19,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "public -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
