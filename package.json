@@ -1,7 +1,7 @@
 {
   "name": "quizprogram",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://naveen511.github.io/Quiz/",
   "dependencies": {
     "@emotion/react": "^11.10.5",

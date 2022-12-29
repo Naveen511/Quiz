@@ -10,8 +10,8 @@ const Rout = (props) => {
   return (
       <Router ref={navRef}>
         <Routes>
-          <Route path="/" element={<Question />} />
-          <Route path="/result" element={<Result />} />
+          <Route exact path="/" element={<Question />} />
+          <Route  path="/result" element={<Result />} />
         </Routes>
       </Router>
   );
